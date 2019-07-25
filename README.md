@@ -1,6 +1,6 @@
 # anonymous-request-exp
 
-匿名で HTTP リクエストを送信してみるテスト
+自分のIPアドレスを隠してHTTPリクエストを送ったりする方法のサンプル
 
 ## usage
 
